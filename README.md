@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Juan 👋
 
-<!--
-**Jesparzarom/jesparzarom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a logistic technician who loves technology 💻
 
-Here are some ideas to get you started:
+I enjoy learning new things and exploring the world of programming 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm curious and creative, I like to solve problems and create solutions 🧠
+
+I have skills in Python 🐍, NoSQL 🗃️ and some SQL 🛢️, as well as HTML, CSS and a bit of JavaScript 🌐
+
+This is my space to share my projects, ideas and learnings 🚀
+
+I hope you like my profile and that it serves you as inspiration 😊
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesparzarom&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesparzarom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
