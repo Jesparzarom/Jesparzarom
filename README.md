@@ -1,16 +1,18 @@
+# ABOUT ME
 ### Hi there, I'm Juan 👋
+```python
+>>> I'm a logistic technician who loves technology 💻
 
-I'm a logistic technician who loves technology 💻
+>>> I enjoy learning new things and exploring the world of programming 🌎
 
-I enjoy learning new things and exploring the world of programming 🌎
+>>> I'm curious and creative, I like to solve problems and create solutions 🧠
 
-I'm curious and creative, I like to solve problems and create solutions 🧠
+>>> I have skills in Python 🐍, NoSQL 🗃️ and some SQL 🛢️, as well as HTML, CSS and a bit of JavaScript 🌐
 
-I have skills in Python 🐍, NoSQL 🗃️ and some SQL 🛢️, as well as HTML, CSS and a bit of JavaScript 🌐
+>>> This is my space to share my projects, ideas and learnings 🚀
 
-This is my space to share my projects, ideas and learnings 🚀
-
-I hope you like my profile and that it serves you as inspiration 😊
+>>> I hope you like my profile and that it serves you as inspiration 😊
+```
 
 ## GitHub stats
 
