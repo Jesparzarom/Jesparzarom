@@ -12,6 +12,11 @@ This is my space to share my projects, ideas and learnings 🚀
 
 I hope you like my profile and that it serves you as inspiration 😊
 
+## GitHub stats
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesparzarom&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesparzarom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesparzarom&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contributions
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jesparzarom&repo=python-docs-es&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
