@@ -1,4 +1,4 @@
-<h6 align="center">🗂Repositories filter</h6>
+<h6 align="center">🗂Repositories filter (only in web version)</h6>
 <p align="center">
   <a href="https://github.com/Jesparzarom?tab=repositories&q=&type=&language=python&sort=">
     <img src="https://img.shields.io/badge/PYTHON_PROJECTS-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python projects"></a>
