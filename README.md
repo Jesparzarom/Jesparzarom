@@ -21,7 +21,7 @@
 
 >>> I'm curious and creative, I like to solve problems and create solutions 🧠
 
->>> I have skills in Python 🐍, NoSQL 🗃️ and some SQL 🛢️, as well as HTML, CSS and a bit of JavaScript 🌐
+>>> I have skills in Python 🐍, NoSQL 🗃️ and some SQL 🛢️, as well as HTML, CSS and JavaScript 🌐
 
 >>> This is my space to share my projects, ideas and learnings 🚀
 
