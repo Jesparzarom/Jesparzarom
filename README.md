@@ -13,21 +13,28 @@
 
 <h1 align="center">👾ABOUT ME</h1>
 
-### Hi there, I'm Juan 👋
+
+Hey there, I'm Juan! 
+
 ```python
->>> I'm a logistic technician who loves technology 💻
+👨‍💻 A logistician by day, a coder by night!...
 
->>> I enjoy learning new things and exploring the world of programming 🌎
+✨I'm on an adventurous journey of exploring
+the dimensions of programming and technology 🚀,
+and trust me, it's a blast! 🎉,
 
->>> I'm curious and creative, I like to solve problems and create solutions 🧠
+I'm like a curious cat 🐱, always eager to learn
+new tricks and discover fascinating coding techniques
+in Python 🐍, also i have experience in Full Stack
+development with MySQL, MongoDB, HTML, CSS, and JavaScript.
 
->>> I have skills in Python 🐍, NoSQL 🗃️ and some SQL 🛢️, as well as HTML, CSS and JavaScript 🌐
+I enjoy driving digital transformation and solving challenging problems.
 
->>> This is my space to share my projects, ideas and learnings 🚀
-
->>> I hope you like my profile and that it serves you as inspiration 😊
+My goal is continuous growth as a programmer, seeking excellence
+in every project. I aspire to exciting opportunities where
+I can provide innovative solutions and make a positive impact.
+Let's code together! 🚀😊
 ```
-
 <div align="center">
     <h4>TECH SKILLS</h4>
     <a href="#">
