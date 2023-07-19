@@ -17,22 +17,28 @@
 Hey there, I'm Juan! 
 
 ```python
-👨‍💻 A logistician by day, a coder by night!...
+👨‍💻 A logistician by day,
+a coder by night!...
 
-✨I'm on an adventurous journey of exploring
-the dimensions of programming and technology 🚀,
+✨I'm on an adventurous journey
+of exploring the dimensions of
+programming and technology 🚀,
 and trust me, it's a blast! 🎉,
 
-I'm like a curious cat 🐱, always eager to learn
-new tricks and discover fascinating coding techniques
-in Python 🐍, also i have experience in Full Stack
-development with MySQL, MongoDB, HTML, CSS, and JavaScript.
+I'm like a curious cat 🐱, always
+eager to learn new tricks and discover
+fascinating coding techniques in Python 🐍,
+also i have experience in Full Stack
+development with MySQL, MongoDB, HTML,
+CSS, and JavaScript.
 
-I enjoy driving digital transformation and solving challenging problems.
+I enjoy driving digital transformation
+and solving challenging problems.
 
-My goal is continuous growth as a programmer, seeking excellence
-in every project. I aspire to exciting opportunities where
-I can provide innovative solutions and make a positive impact.
+My goal is continuous growth as a programmer,
+seeking excellence in every project. I aspire
+to exciting opportunities where I can provide
+innovative solutions and make a positive impact.
 Let's code together! 🚀😊
 ```
 <div align="center">
