@@ -1,24 +1,10 @@
-<h6 align="center">🗂Repositories filter (only in web version)</h6>
-<p align="center">
-  <a href="https://github.com/Jesparzarom?tab=repositories&q=&type=&language=python&sort=">
-    <img src="https://img.shields.io/badge/PYTHON_PROJECTS-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python projects"></a>
-  <a href="https://github.com/Jesparzarom?tab=repositories&q=&type=&language=javascript&sort=">
-    <img src="https://img.shields.io/static/v1?label=&message=JS+projects&color=yellow&style=for-the-badge&logo=javascript&logoColor=black" alt="JS projects">
-  </a>
-  <a href="https://github.com/Jesparzarom?tab=repositories&q=&type=&language=html&sort=">
-    <img src="https://img.shields.io/static/v1?label=&message=WEB+PROYECTS&color=orange&style=for-the-badge&logo=html5&logoColor=white" alt="WEB PROYECTS">
-  </a>
-</p>
-
-
 <h1 align="center">👾ABOUT ME</h1>
 
 
 Hey there, I'm Juan! 
 
 ```python
-👨‍💻 A logistician by day,
-a coder by night!...
+👨‍💻 A logistician coder!...
 
 ✨I'm on an adventurous journey
 of exploring the dimensions of
@@ -29,8 +15,8 @@ I'm like a curious cat 🐱, always
 eager to learn new tricks and discover
 fascinating coding techniques in Python 🐍,
 also i have experience in Full Stack
-development with MySQL, MongoDB, HTML,
-CSS, and JavaScript.
+development with Flask, MySQL, MongoDB, HTML,
+CSS, Vue and JavaScript.
 
 I enjoy driving digital transformation
 and solving challenging problems.
