@@ -4,28 +4,25 @@
 Hey there, I'm Juan! 
 
 ```python
-👨‍💻 A logistician coder!...
+👨‍💻 I am a logistician coder who is into the
+dimensions of programming and technology 🚀
 
-✨I'm on an adventurous journey
-of exploring the dimensions of
-programming and technology 🚀,
-and trust me, it's a blast! 🎉,
-
-I'm like a curious cat 🐱, always
-eager to learn new tricks and discover
-fascinating coding techniques in Python 🐍,
-also i have experience in Full Stack
-development with Flask, MySQL, MongoDB, HTML,
+As someone curious 🐱, I am passionate about
+learning new tricks and discovering
+fascinating Python coding techniques 🐍,
+I also have experience in Full Stack
+with Flask, MySQL, MongoDB, HTML,
 CSS, Vue and JavaScript.
 
-I enjoy driving digital transformation
-and solving challenging problems.
+I really like the digital transformation of things
+and solving problems.
 
-My goal is continuous growth as a programmer,
-seeking excellence in every project. I aspire
-to exciting opportunities where I can provide
-innovative solutions and make a positive impact.
-Let's code together! 🚀😊
+My goal is continuous growth,
+striving for excellence in every project. I aspire
+exciting opportunities where I can deliver
+solutions and make a positive impact.
+
+Live long and prosper🖖
 ```
 <div align="center">
     <h4>TECH SKILLS</h4>
