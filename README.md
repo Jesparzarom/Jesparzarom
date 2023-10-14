@@ -3,26 +3,34 @@
 
 Hey there, I'm Juan! 
 
-```python
-👨‍💻 I am a logistician coder who is into the
-dimensions of programming and technology 🚀
+```markdown
+👨‍💻 An Enthusiastic developer in constant evolution
+with a passion for exploring technologies,
+innovation and digital transformation. 🚀.
+Committed to expanding my skill set 🐍. 
 
-As someone curious 🐱, I am passionate about
-learning new tricks and discovering
-fascinating Python coding techniques 🐍,
-I also have experience in Full Stack
-with Flask, MySQL, MongoDB, HTML,
-CSS, Vue and JavaScript.
+🐍 Python is my core language,
+and I have knowledge and experience
+in a variety of technologies.
+This includes web frameworks like
+Django and Flask, databases such as MySQL
+and MongoDB 📊, and skills in frontend
+development using HTML, CSS, Vue.js,
+and JavaScript 🌐.
 
-I really like the digital transformation of things
-and solving problems.
+In the backend realm, I also have
+knowledge in PHP 💻, and I use
+tools like PHPMyAdmin and Apache
+to deploy PHP web applications. 🚀
 
-My goal is continuous growth,
-striving for excellence in every project. I aspire
-exciting opportunities where I can deliver
-solutions and make a positive impact.
+I find delight in digital transformation
+and problem-solving, using GIT and GitHub
+to ensure seamless development in both
+individual and team projects.
 
-Live long and prosper🖖
+I am proficient in Windows and Linux Debian,
+seamlessly adapting to different environments
+to optimize my development workflow.
 ```
 <div align="center">
     <h4>TECH SKILLS</h4>
@@ -30,6 +38,11 @@ Live long and prosper🖖
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=15%/>
     </a>
     <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=15%/>
+    </a>
+    <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=15%/>   
+    </a>
     <a href="#">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width=15%/>       
     </a>
@@ -39,10 +52,11 @@ Live long and prosper🖖
     <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=15%/>   
     </a>
+    <a href="#">
        <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png" width=30%/>
     </a>
     <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=15%/>   
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=15%/>
     </a>
     <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=15%/>   
