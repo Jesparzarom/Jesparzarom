@@ -73,5 +73,5 @@
 
 <h3 align="center">🏆 Trophies</h3>
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesparzarom" alt="jesparzarom" /></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesparzarom&theme=onedark&no-bg=true&column=3&margin-w=10" alt="jesparzarom" /></a> 
 </p>
