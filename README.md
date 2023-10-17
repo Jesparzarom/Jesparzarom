@@ -47,30 +47,6 @@
 
 ---
 
-<h3 align="center">💡 Projects</h3>
-<p align="center">
-  <a href="https://github.com/Jesparzarom/Flask-Deta" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesparzarom&repo=Flask-Deta&theme=onedark">
-  </a>
-    <a href="https://github.com/Jesparzarom/OpenAIPy-fragments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesparzarom&repo=OpenAIPy-fragments&theme=onedark">
-  </a>
-</p>
-
----
-
-<h3 align="center">🤝🏻 Contributions and collaborations</h3>
-<p align="center">
-  <a href="https://github.com/Jesparzarom/python-docs-es">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesparzarom&repo=python-docs-es&theme=onedark">
-  </a>
-  <a href="https://github.com/Jesparzarom/app_crud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesparzarom&repo=app_crud&theme=onedark">
-  </a>
-</p>
-    
----
-
 <h3 align="center">🏆 Trophies</h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesparzarom&theme=onedark&no-bg=true&column=3&margin-w=10" alt="jesparzarom" /></a> 
