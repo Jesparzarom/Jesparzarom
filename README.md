@@ -1,78 +1,31 @@
-<h1 align="center">👾ABOUT ME</h1>
+<h1 align="center">Hi 👋, I'm Juan</h1>
+<h3 align="center">A creative software developer from Argentina</h3>
+<h5 align="center"> 👨‍💻 Enthusiastic developer in constant evolution. Passionate about exploring technologies, innovation, and digital transformation. 🚀</h5>
 
+---
 
-Hey there, I'm Juan! 
+<h3 align="center">💾 Tech Stack:</h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-```markdown
-👨‍💻 An Enthusiastic developer in constant evolution
-with a passion for exploring technologies,
-innovation and digital transformation. 🚀.
-Committed to expanding my skill set 🐍. 
+---
 
-🐍 Python is my core language,
-and I have knowledge and experience
-in a variety of technologies.
-This includes web frameworks like
-Django and Flask, databases such as MySQL
-and MongoDB 📊, and skills in frontend
-development using HTML, CSS, Vue.js,
-and JavaScript 🌐.
+- 🔭 I’m currently working on **Exploring new technologies and improving my skills in various domains.**
 
-In the backend realm, I also have
-knowledge in PHP 💻, and I use
-tools like PHPMyAdmin and Apache
-to deploy PHP web applications. 🚀
+- 🌱 I’m currently learning **Cloud Application Developer" and "Software Architecture" on my own. I'm dedicated to expanding my knowledge in these domains and furthering my skills in software development. I read documentation, follow tutorials, and explore a wide range of development resources to stay updated and improve my expertise.**
 
-I find delight in digital transformation
-and problem-solving, using GIT and GitHub
-to ensure seamless development in both
-individual and team projects.
+- 👯 I’m looking to collaborate on **Exciting projects that involve software development or any interesting tech ventures.**
 
-I am proficient in Windows and Linux Debian,
-seamlessly adapting to different environments
-to optimize my development workflow.
-```
-<div align="center">
-    <h4>TECH SKILLS</h4>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=15%/>
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=15%/>
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=15%/>   
-    </a>
-    <a href="#">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width=15%/>       
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=15%/>   
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=15%/>   
-    </a>
-    <a href="#">
-       <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png" width=30%/>
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=15%/>
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=15%/>   
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=15%/>   
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=15%/>   
-    </a>
-    <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width=15%/>   
-    </a>
-</div>
+- 🤝 I’m looking for help with **Enhancing my expertise in software development, especially in areas like web applications, database management, and front-end technologies.**
 
-<h2 align="center">📊GITHUB STATS</h2>
+- 💬 Ask me about **Anything related to Python, web development, or problem-solving with code. Feel free to reach out if you have questions. I'm just a message away! 😄**
+
+- 📫 How to reach me **jesparzarom@outlook.com**
+
+- ⚡ Fun fact **I'm a Mexican living in Argentina, spicing grilled meat up with a side of spicy sauce. When I'm not diving into the world of technology or crafting the perfect Spotify playlist, you can find me navigating the wild terrain of "The Long Dark." 🎮 📰🎵 There's also room for read some lighthearted Twitt's in my day. Of course what truly matters most to me are those cherished family moments.**
+
+---
+
+<h3 align="center">📊 Github stats</h3>
 
 <p align="center">
   <a href="#">
@@ -92,8 +45,9 @@ to optimize my development workflow.
   <a/>
 </p>
 
+---
 
-<h2 align="center">💡 PROJECTS</h2>
+<h3 align="center">💡 Projects</h3>
 <p align="center">
   <a href="https://github.com/Jesparzarom/Flask-Deta" >
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesparzarom&repo=Flask-Deta&theme=onedark">
@@ -103,7 +57,9 @@ to optimize my development workflow.
   </a>
 </p>
 
-<h2 align="center">🤝🏻 CONTRIBUTIONS AND COLLABORATIONS</h2>
+---
+
+<h3 align="center">🤝🏻 Contributions and collaborations</h3>
 <p align="center">
   <a href="https://github.com/Jesparzarom/python-docs-es">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jesparzarom&repo=python-docs-es&theme=onedark">
@@ -114,3 +70,8 @@ to optimize my development workflow.
 </p>
     
 ---
+
+<h3 align="center">🏆 Trophies</h3>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesparzarom" alt="jesparzarom" /></a> 
+</p>
