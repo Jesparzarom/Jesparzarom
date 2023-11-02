@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A creative software developer from Argentina</h3>
+<h3 align="center">A creative fullstack software developer from Argentina</h3>
 <h5 align="center"> 👨‍💻 Enthusiastic developer in constant evolution. Passionate about exploring technologies, innovation, and digital transformation. 🚀</h5>
 
 ---
