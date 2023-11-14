@@ -9,9 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Exploring new technologies and improving my skills in various domains.**
-
-- 🌱 I’m currently learning **Cloud Application Developer" and "Software Architecture" on my own. I'm dedicated to expanding my knowledge in these domains and furthering my skills in software development. I read documentation, follow tutorials, and explore a wide range of development resources to stay updated and improve my expertise.**
+- 🔭 I’m currently working on **Exploring new technologies and improving my skills, with a focus on fullstack development using Python, JavaScript, Vue, MongoDB, MySQL, Flask, and Django**
 
 - 👯 I’m looking to collaborate on **Exciting projects that involve software development or any interesting tech ventures.**
 
@@ -19,9 +17,9 @@
 
 - 💬 Ask me about **Anything related to Python, web development, or problem-solving with code. Feel free to reach out if you have questions. I'm just a message away! 😄**
 
-- 📫 How to reach me **jesparzarom@outlook.com**
+- 📫 How to reach me:  **jesparzarom@outlook.com**
 
-- ⚡ Fun fact **I'm a Mexican living in Argentina, spicing grilled meat up with a side of spicy sauce. When I'm not diving into the world of technology or crafting the perfect Spotify playlist, you can find me navigating the wild terrain of "The Long Dark." 🎮 📰🎵 There's also room for read some lighthearted Twitt's in my day. Of course what truly matters most to me are those cherished family moments.**
+- ⚡ Fun fact: **I'm a Mexican living in Argentina, spicing grilled meat up with a side of spicy sauce. When I'm not diving into the world of technology or crafting the perfect Spotify playlist, you can find me navigating the wild terrain of "The Long Dark." 🎮 📰🎵 There's also room for read some lighthearted Twitt's in my day. Of course what truly matters most to me are those cherished family moments.**
 
 ---
 
