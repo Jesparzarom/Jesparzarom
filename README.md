@@ -51,10 +51,7 @@
 
 ---
 
-
----
-
-<h3 align="center">📊 Github stats</h3>
+<h2 align="center"><code>My GH Stats</code> </h2>
 
 <p align="center">
   <a href="#">
@@ -78,7 +75,7 @@
 
 ---
 
-<h3 align="center">🏆 My Trophies</h3>
+<h2 align="center"> <code>🏆 My Trophies </code></h2>
 <p align="center">
   <a href="#">
     <img src="https://github-trophies.vercel.app/?username=jesparzarom&theme=algolia&no-frame=true&no-bg=false&margin-w=0" width="100%" height="250">
