@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=jesparzarom&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
+
 <h1 align="center"><code>Hi 👋, I'm Juan</code></h1>
 <h3 align=""> <i>As a creative fullstack software developer from Argentina, driven by my curiosity and fueled by a constant stream of ideas, I have a knack for tackling intriguing challenges. My passion for exploring technologies, innovation, and digital transformation keeps me always continuously evolving.</i></h>
 
