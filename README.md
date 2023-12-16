@@ -10,7 +10,7 @@
 
 <h2 align="center"><code>About Me</code></h2>
 
-> 👯 I'm eager to collaborate on projects that align with my passion for building creative web solutions or contributing to open-source projects in the tech space.
+> 🛠 I'm eager to collaborate on projects that align with my passion for building creative web solutions or contributing to open-source projects in the tech space.
 
 > 🤝 I'm seeking collaborative opportunities that promote mutual learning and growth, particularly in areas like front-end frameworks such as Vue, where I aim to strengthen my UI/UX skills.
 
@@ -21,7 +21,7 @@
 
 
 
-> ⚡ Fun fact: I'm a Mexican living in Argentina, adding a touch of spice to grilled meat with a side of fiery sauce. When not immersed in the tech world or curating the perfect Spotify playlist, you can catch me navigating the challenging terrain of "The Long Dark." 🎮 📰🎵 Additionally, there's always time to indulge in some lighthearted tweets throughout my day. However, what truly matters most to me are those precious family moments.
+> ⚡ Fun fact: I'm a Mexican living in Argentina, adding a touch of spice to grilled meat. When not immersed in the tech world or curating the perfect Spotify playlist, you can catch me navigating the challenging terrain of "The Long Dark." 🎮 📰🎵 Additionally, there's always time to indulge in some lighthearted tweets throughout my day. However, what truly matters most to me are those precious family moments.
 
 ---
 
