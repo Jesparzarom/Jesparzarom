@@ -16,8 +16,7 @@
 
 > 💬 Feel free to reach out with questions on various topics—I'm always happy to chat about Python libraries, debugging strategies, or optimizing web performance. I'm just a message away! 😄
 
-> 📫 Reach me at:
-> <a href="https://discord.gg/jesparzarom" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a> <a href="mailto:jesparzarom@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=mail.ru&logoColor=white" alt="Email"></a>
+> 📫 Reach me at: </a> <a href="mailto:jesparzarom@outlook.com" target="_blank"><img src="https://img.shields.io/badge/jesparzarom-%23D14836.svg?logo=mail.ru&logoColor=white" alt="Email"></a>
 
 
 
