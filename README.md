@@ -16,7 +16,7 @@
 
 > 💬 Feel free to reach out with questions on various topics—I'm always happy to chat about Python libraries, debugging strategies, or optimizing web performance. I'm just a message away! 😄
 
-> 📫 Reach me at: </a> <a href="mailto:jesparzarom@outlook.com" target="_blank"><img src="https://img.shields.io/badge/jesparzarom-%23D14836.svg?logo=mail.ru&logoColor=white" alt="Email"></a>
+> 📫 Reach me at: </a> <a href="mailto:esparzok@proton.me" target="_blank"><img src="https://img.shields.io/badge/jesparzarom-%23D14836.svg?logo=mail.ru&logoColor=white" alt="Email"></a>
 
 
 
