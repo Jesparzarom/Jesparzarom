@@ -43,7 +43,7 @@
   <a align="">More Tools</a>
  <br/> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,md,vercel,pandas&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,md,vercel&perline=6" />
   </a>
 </p>
 
