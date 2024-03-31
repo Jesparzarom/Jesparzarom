@@ -29,14 +29,14 @@
   <a align="">Back-End</a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,nodejs,django,flask,sqlite,mysql,postgresql,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,php,javascript,django,laravel,flask,sqlite,mysql,postgresql,mongodb&perline=6" />
   </a>
 </p>
 <p align="center">
   <a align="">Front-End</a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,vue,bootstrap,jquery,html,css&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,tailwind,bootstrap,jquery&perline=6" />
   </a>
 </p>
 <p align="center">
