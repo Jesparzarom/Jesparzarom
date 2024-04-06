@@ -1,56 +1,62 @@
-
 <p align="center">
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=jesparzarom&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
-<h1 align="center"><code>Hi 👋, I'm Juan</code></h1>
-<h3 align=""> <i>As a creative fullstack software developer from Argentina, driven by my curiosity and fueled by a constant stream of ideas, I have a knack for tackling intriguing challenges. My passion for exploring technologies, innovation, and digital transformation keeps me always continuously evolving.</i></h>
+# ABOUT ME
+#### 👋 ¡Hola! Soy Juan y me apasiona todo lo relacionado con la transformación digital y la tecnología. Me dedico principalmente al desarrollo fullstack utilizando Python, JavaScript y PHP, y cuento con más de dos años de experiencia en el diseño y desarrollo de aplicaciones y páginas web.
 
-<h2 align="center"><code>About Me</code></h2>
+### HABILIDADES 
 
-> 🛠 I'm eager to collaborate on projects that align with my passion for building creative web solutions or contributing to open-source projects in the tech space.
+##### Me gustaría destacar mi capacidad para aprender y adaptarme a nuevas tecnologías y lenguajes. Siempre me esfuerzo por escribir código siguiendo las convenciones, manteniéndolo limpio y debidamente documentado.
 
-> 🤝 I'm seeking collaborative opportunities that promote mutual learning and growth, particularly in areas like front-end frameworks such as Vue, where I aim to strengthen my UI/UX skills.
+##### He trabajado con frameworks como Django, Flask, Laravel y Next.js y librerías populares como React, JQuery, Pandas, Bootstrap, Tailwind y más. Además tengo buenos conocimientos en SEO.
+##### Por otra parte, he trabajado con bases de datos SQL como MySQL, PostgreSQL aunque también he utilizado ocasionalmente NoSQL.
 
-> 💬 Feel free to reach out with questions on various topics—I'm always happy to chat about Python libraries, debugging strategies, or optimizing web performance. I'm just a message away! 😄
-
-> 📫 Reach me at: </a> <a href="mailto:esparzok@proton.me" target="_blank"><img src="https://img.shields.io/badge/jesparzarom-%23D14836.svg?logo=mail.ru&logoColor=white" alt="Email"></a>
-
+<a href="#hard-skills">Ver detalles sobre hardskills</a>
 
 
-> ⚡ Fun fact: I'm a Mexican living in Argentina, adding a touch of spice to grilled meat. When not immersed in the tech world or curating the perfect Spotify playlist, you can catch me navigating the challenging terrain of "The Long Dark." 🎮 📰🎵 Additionally, there's always time to indulge in some lighthearted tweets throughout my day. However, what truly matters most to me are those precious family moments.
+### INTERESES
 
----
+##### Me interesa mucho la transformación digital, el desarrollo y diseño de software, la inteligencia artificial y algunos temas generales.
+##### En lo social disfruto de estar en familia y conocer personas interesantes.
 
-<h2 align="center"> <code>My Tech Stack</code> </h2>
-<p align="center">
-  <a align="">Back-End</a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,javascript,django,laravel,flask,sqlite,mysql,postgresql,mongodb&perline=6" />
-  </a>
-</p>
-<p align="center">
-  <a align="">Front-End</a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,tailwind,bootstrap,jquery&perline=6" />
-  </a>
-</p>
-<p align="center">
-  <a align="">More Tools</a>
- <br/> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,md,vercel&perline=6" />
-  </a>
-</p>
+### OBJETIVO
 
+##### En lo personal, me considero creativo, autodidacta, resolutivo, detallista y disfruto colaborando en equipo con otros profesionales. Siempre estoy buscando nuevos desafíos y oportunidades para crecer y aprender tanto profesional como personalmente.
+
+##### Mi objetivo es hacer desarrollos excelentes y vivir de ello.
 
 ---
 
-<h2 align="center"><code>My GH Stats</code> </h2>
+<h2 align="center">Hard Skills</h2>
+
+<div align="center">
+  <h3>Back-End</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,javascript,django,laravel,flask,sqlite,mysql,postgresql,mongodb&perline=10" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Back-End</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,tailwind,bootstrap,jquery&perline=10" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Más Herramientas</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,md,vercel&perline=10" />
+  </a>
+</div>
+
+
+---
+
+<h2 align="center"><code>Mis Estadísticas en GitHub</code> </h2>
 
 <p align="center">
   <a href="#">
@@ -74,12 +80,9 @@
 
 ---
 
-<h2 align="center"> <code>🏆 My Trophies </code></h2>
+<h2 align="center"> <code>🏆 Mis Trofeos</code></h2>
 <p align="center">
   <a href="#">
     <img src="https://github-trophies.vercel.app/?username=jesparzarom&theme=algolia&no-frame=true&no-bg=false&margin-w=0" width="100%" height="250">
   <a/>
 </p>
-
-
----
