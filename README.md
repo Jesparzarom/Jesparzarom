@@ -76,11 +76,8 @@
   <a/>
 </p>
 
-
-
 ---
 
-<h2 align="left">🏆 Mis Trofeos</h2>
 <p align="center">
   <a href="#">
     <img src="https://github-trophies.vercel.app/?username=jesparzarom&theme=algolia&no-frame=true&no-bg=false&margin-w=0" width="100%" height="250">
