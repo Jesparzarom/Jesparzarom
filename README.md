@@ -5,49 +5,49 @@
 </p>
 
 # ABOUT ME
-#### 👋 ¡Hola! Soy Juan y me apasiona todo lo relacionado con la transformación digital y la tecnología. Me dedico principalmente al desarrollo fullstack utilizando Python, JavaScript y PHP, y cuento con más de dos años de experiencia en el diseño y desarrollo de aplicaciones y páginas web.
+#### 👋 Hello! I'm Juan and I'm passionate about everything related to digital transformation and technology. I mainly work in full-stack development using Python, JavaScript, and PHP, with over two years of experience in designing and developing applications and websites.
 
-### HABILIDADES 
+### SKILLS 
 
-##### Me gustaría destacar mi capacidad para aprender y adaptarme a nuevas tecnologías y lenguajes. Siempre me esfuerzo por escribir código siguiendo las convenciones, manteniéndolo limpio y debidamente documentado.
+##### I'd like to highlight my ability to learn and adapt to new technologies and languages. I always strive to write code following conventions, keeping it clean and properly documented.
 
-##### He trabajado con frameworks como Django, Flask, Laravel y Next.js y librerías populares como React, JQuery, Pandas, Bootstrap, Tailwind y más. Además tengo buenos conocimientos en SEO.
-##### Por otra parte, he trabajado con bases de datos SQL como MySQL, PostgreSQL aunque también he utilizado ocasionalmente NoSQL.
+##### I've worked with frameworks like Django, Flask, Laravel, and Next.js, and popular libraries like React, JQuery, Pandas, Bootstrap, Tailwind, and more. Additionally, I have good knowledge of SEO.
+##### On the backend, I've worked with SQL databases like MySQL, PostgreSQL, although I've occasionally used NoSQL as well.
 
-<a href="#hard-skills">Ver detalles sobre hardskills</a>
+<a href="#hard-skills">See details about hard skills</a>
 
 
-### INTERESES
+### INTERESTS
 
-##### Me interesa mucho la transformación digital, el desarrollo y diseño de software, la inteligencia artificial y algunos temas generales.
-##### En lo social disfruto de estar en familia y conocer personas interesantes.
+##### I'm very interested in digital transformation, software development and design, artificial intelligence, and some general topics.
+##### Socially, I enjoy spending time with family and meeting interesting people.
 
-### OBJETIVO
+### OBJECTIVE
 
-##### En lo personal, me considero creativo, autodidacta, resolutivo, detallista y disfruto colaborando en equipo con otros profesionales. Siempre estoy buscando nuevos desafíos y oportunidades para crecer y aprender tanto profesional como personalmente.
+##### Personally, I consider myself creative, self-taught, solution-oriented, detail-oriented, and I enjoy collaborating with other professionals. I'm always looking for new challenges and opportunities to grow and learn both professionally and personally.
 
-##### Mi objetivo es hacer desarrollos excelentes y vivir de ello.
+##### My goal is to deliver excellent developments and make a living out of it.
 
 ---
 
-<h2 align="center">Hard Skills</h2>
+<h2 align="left">Hard Skills</h2>
 
-<div align="center">
-  <h3>Back-End</h3>
+<div align="left">
+  <h5>Back-End</h5>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,php,javascript,django,laravel,flask,sqlite,mysql,postgresql,mongodb&perline=10" />
   </a>
 </div>
 
-<div align="center">
-  <h3>Back-End</h3>
+<div align="left">
+  <h4>Front-End</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,tailwind,bootstrap,jquery&perline=10" />
   </a>
 </div>
 
-<div align="center">
-  <h3>Más Herramientas</h3>
+<div align="left">
+  <h5>More Tools</h5>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,md,vercel&perline=10" />
   </a>
@@ -56,7 +56,7 @@
 
 ---
 
-<h2 align="center"><code>Mis Estadísticas en GitHub</code> </h2>
+<h2 align="left">My GitHub Stats</h2>
 
 <p align="center">
   <a href="#">
@@ -80,7 +80,7 @@
 
 ---
 
-<h2 align="center"> <code>🏆 Mis Trofeos</code></h2>
+<h2 align="left">🏆 Mis Trofeos</h2>
 <p align="center">
   <a href="#">
     <img src="https://github-trophies.vercel.app/?username=jesparzarom&theme=algolia&no-frame=true&no-bg=false&margin-w=0" width="100%" height="250">
