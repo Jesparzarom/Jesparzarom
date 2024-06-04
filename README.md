@@ -9,9 +9,9 @@
 
 ### SKILLS 
 
-##### I'd like to highlight my ability to learn and adapt to new technologies and languages. I always strive to write code following conventions, keeping it clean and properly documented.
+##### I'd like to highlight my ability to learn and adapt to new technologies and languages.
 
-##### I've worked with frameworks like Django, Flask, Laravel, and Next.js, and popular libraries like React, JQuery, Pandas, Bootstrap, Tailwind, and more. Additionally, I have good knowledge of SEO.
+##### I've worked with frameworks like Django, Flask, Astro and Next.js, and popular libraries like React, JQuery, Bootstrap, Tailwind, and more. Additionally, I have good knowledge of SEO.
 ##### On the backend, I've worked with SQL databases like MySQL, PostgreSQL, although I've occasionally used NoSQL as well.
 
 <a href="#hard-skills">See details about hard skills</a>
@@ -31,25 +31,34 @@
 ---
 
 <h2 align="left">Hard Skills</h2>
-
 <div align="left">
-  <h5>Back-End</h5>
+  <h5>Languages, Markup & Styling</h5>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,javascript,django,laravel,flask,sqlite,mysql,postgresql,mongodb&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,php,javascript,html,css,md&perline=10" />
   </a>
 </div>
-
 <div align="left">
-  <h4>Front-End</h4>
+  <h5>Frameworks & Libs</h5>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,tailwind,bootstrap,jquery&perline=10" />
+    <img src="https://skillicons.dev/icons?i=django,flask,astro,next,react,jquery&perline=10" />
   </a>
 </div>
-
+<div align="left">
+  <h5>CSS Frameworks</h5>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&perline=10" />
+  </a>
+</div>
+<div align="left">
+  <h5>Databases</h5>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=10" />
+  </a>
+</div>
 <div align="left">
   <h5>More Tools</h5>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,md,vercel&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,&perline=10" />
   </a>
 </div>
 
