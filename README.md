@@ -26,7 +26,7 @@
 
 ##### Personally, I consider myself creative, self-taught, solution-oriented, detail-oriented, and I enjoy collaborating with other professionals. I'm always looking for new challenges and opportunities to grow and learn both professionally and personally.
 
-##### My goal is to deliver excellent developments and make a living out of it.
+##### I aspire to become a full-stack developer with expertise in various technologies and the ability to lead software projects.
 
 ---
 
