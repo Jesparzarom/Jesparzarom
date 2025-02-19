@@ -7,7 +7,7 @@
 # ABOUT
 
 ### Yo
-Soy Juan. Con +2 años en full-stack, colaboro en transformar ideas en soluciones digitales. Trabajo con Python, JavaScript y PHP. Me interesa la el desarrollo web, la inteligencia artificial y el diseño de software. Siempre en busca de aprender y mejorar.
+Soy Juan. Con +2 años en full-stack, me gusta transformar ideas en soluciones digitales. Trabajo con Python, JavaScript y PHP. Me interesa el desarrollo web, la inteligencia artificial y el diseño de software. Siempre en busca de aprender y mejorar.
 
 ### Me
 _I'm Juan. With 2+ years in full-stack, I help turn ideas into digital solutions. I work with Python, JavaScript, and PHP. I'm interested in web development, artificial intelligence and software design. Always eager to learn and grow._
